@@ -1,17 +1,21 @@
-# aqaarak
+# 🏠 Semsarak - Real Estate App
 
-A new Flutter project.
+A modern, high-performance, and scalable Real Estate mobile application built using **Flutter** and **Dart**. The project is strictly structured following **Clean Architecture (Layered Architecture)** principles to ensure maintainability, testability, and a clear separation of concerns.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### 🚀 Key Features
 
-A few resources to get you started if this is your first Flutter project:
+*   **🔐 Authentication:** Secure user authentication (Sign Up, Login, Logout) powered by **Firebase Auth**.
+*   **📂 Real Estate Listings:** Dynamic property browsing, filtering, and searching with real-time data streaming from **Firebase Cloud Firestore**.
+*   **☁️ Image Uploads:** Smooth property image uploading and management utilizing **Firebase Storage**.
+*   **🏗️ Clean Architecture:** Organized into distinct layers (**Data, Domain, and Presentation**) for scalable and production-ready code.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠️ Tech Stack & Architecture
+
+*   **Framework:** Flutter (Cross-platform)
+*   **Language:** Dart
+*   **Backend:** Firebase (Auth, Firestore, Storage)
+*   **Architecture:** Clean Architecture
