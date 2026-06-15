@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785469973916",
+    "project_id": "aqaarak-d09f1",
+    "storage_bucket": "aqaarak-d09f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785469973916:android:81e635b6b6db2972059459",
+        "android_client_info": {
+          "package_name": "com.example.aqaarak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGflL9sjfYGlsIjwSnAr8V8nskxvQcQH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
